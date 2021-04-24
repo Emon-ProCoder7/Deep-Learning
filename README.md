@@ -14,7 +14,7 @@ For this project I have explored [Heart Failure Clinical dataset](https://www.ka
 People with cardiovascular disease or who are at high cardiovascular risk (due to the presence of one or more risk factors such as hypertension, diabetes, hyperlipidemia, or already established disease) need early detection and management wherein a machine learning model can be of great help.
 
 
-👈🏻*Click Here* [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://github.com/Emon-ProCoder7/python_projects/blob/master/Visualization_kaggle.ipynb)
+👈🏻*Click Here* [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://nbviewer.jupyter.org/github/Emon-ProCoder7/Deep-Learning/blob/main/heart_project.ipynb)
 
 <br><br>
 
