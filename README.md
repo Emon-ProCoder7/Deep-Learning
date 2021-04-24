@@ -8,13 +8,12 @@
 <h1 align = 'center'> Jupyter Notebooks </h1> 
 
 
-### i) Data Visualization With Pandas, Seaborn & Matplotlib
+### i) Classification Model Building with Neural Network
 
 #### Project Goals
-For this project I have explored data from the [Fifa World Cup](https://en.wikipedia.org/wiki/FIFA_World_Cup) from 1930-2014 to analyze trends and discover insights about the world’s game, fútbol!
-
-This Fifa World Cup data is from [Kaggle](https://www.kaggle.com/abecklas/fifa-world-cup). Kaggle is a platform for data science competitions that hosts many datasets online.
-
+For this project I have explored [Heart Failure Clinical dataset](https://www.kaggle.com/andrewmvd/heart-failure-clinical-data) to predict the survival of patients with heart failure from serum creatinine and ejection fraction, and other factors such as age, anemia, diabetes, and so on.
+<br> <br>
+People with cardiovascular disease or who are at high cardiovascular risk (due to the presence of one or more risk factors such as hypertension, diabetes, hyperlipidemia, or already established disease) need early detection and management wherein a machine learning model can be of great help.
 
 
 👈🏻*Click Here* [<img align="left" alt="Emon-ProCoder7 | Jupyter" width="32px" src="https://raw.githubusercontent.com/Emon-ProCoder7/python_projects/master/jupyter.png"/>](https://github.com/Emon-ProCoder7/python_projects/blob/master/Visualization_kaggle.ipynb)
