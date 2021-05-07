@@ -1,6 +1,6 @@
 <p align='center'>   
 
-<a href="https://www.python.org/"><img align = center width = 182px src="http://ForTheBadge.com/images/badges/made-with-python.svg">             <img align = center width = 130px alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />             <img align = center alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />             <img align = center alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /> </a>
+<a href="https://www.python.org/"><img align = center width = 182px src="http://ForTheBadge.com/images/badges/made-with-python.svg">             <img align = center width = 130px alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />             <img align = center alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />             <img align = center alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />             <img align = center alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?&style=for-the-badge&logo=opencv&logoColor=white"/> </a>
 
 </p>
 
