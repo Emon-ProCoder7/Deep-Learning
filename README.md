@@ -1,10 +1,8 @@
-<p align='left'>   
+<p align='center'>   
 
-  <a href="#"><img src="https://badges.pufler.dev/visits/Emon-ProCoder7/Data-Driven-Decision-Making-With-Statistics"></a>
+<a href="https://www.python.org/"><img align = center width = 182px src="http://ForTheBadge.com/images/badges/made-with-python.svg"></a>             <img align = center width = 130px alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />             <img align = center alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />             <img align = center alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
+
 </p>
-
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-
 
 <h1 align = 'center'> Classification Model Building with Neural Network </h1> 
 
